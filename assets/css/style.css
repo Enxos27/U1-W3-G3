@@ -1,0 +1,47 @@
+body {
+  background-color: #fdf5e6;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+.input-margin {
+  text-align: center;
+}
+
+label {
+  font-size: 2em;
+  text-align: center;
+  display: block;
+}
+
+.main-form {
+  text-align: center;
+}
+
+#task {
+  width: 40%;
+}
+
+#btn {
+  text-align: center;
+  margin: 10px;
+}
+
+.elemento {
+  margin: 20px;
+  font-size: 1.1em;
+}
+
+header,
+#main-form {
+  display: inline-block;
+  width: 50%;
+  margin: 0px 25% 0px 25%;
+
+  background-color: #f8f8ff;
+  border: 2px solid paleturquoise;
+  border-radius: 10px;
+}
